@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_player import st_player
 import time 
 
 st.set_page_config(page_title="Lóterica")
